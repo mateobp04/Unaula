@@ -1,0 +1,8 @@
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\bin\Debug\7valormayoromenor.exe.config
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\bin\Debug\7valormayoromenor.exe
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\bin\Debug\7valormayoromenor.pdb
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\obj\Debug\7valormayoromenor.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\obj\Debug\7valormayoromenor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\obj\Debug\7valormayoromenor.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\obj\Debug\7valormayoromenor.exe
+C:\Users\Mi pc 1\Desktop\Mateo\7valormayoromenor\7valormayoromenor\obj\Debug\7valormayoromenor.pdb

@@ -1,0 +1,8 @@
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\obj\Debug\6.Multiplicar.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\obj\Debug\6.Multiplicar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\obj\Debug\6.Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\bin\Debug\6.Multiplicar.exe.config
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\bin\Debug\6.Multiplicar.exe
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\bin\Debug\6.Multiplicar.pdb
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\obj\Debug\6.Multiplicar.exe
+C:\Users\Mi pc 1\Desktop\Mateo\6.Multiplicar\6.Multiplicar\obj\Debug\6.Multiplicar.pdb

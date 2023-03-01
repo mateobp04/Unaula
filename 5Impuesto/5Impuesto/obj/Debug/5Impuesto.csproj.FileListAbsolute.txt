@@ -1,0 +1,8 @@
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\bin\Debug\5Impuesto.exe.config
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\bin\Debug\5Impuesto.exe
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\bin\Debug\5Impuesto.pdb
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\obj\Debug\5Impuesto.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\obj\Debug\5Impuesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\obj\Debug\5Impuesto.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\obj\Debug\5Impuesto.exe
+C:\Users\Mi pc 1\Desktop\Mateo\5Impuesto\5Impuesto\obj\Debug\5Impuesto.pdb
