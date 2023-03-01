@@ -1,0 +1,8 @@
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\bin\Debug\cnTEMPERATURA.exe.config
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\bin\Debug\cnTEMPERATURA.exe
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\bin\Debug\cnTEMPERATURA.pdb
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\obj\Debug\cnTEMPERATURA.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\obj\Debug\cnTEMPERATURA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\obj\Debug\cnTEMPERATURA.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\obj\Debug\cnTEMPERATURA.exe
+C:\Users\Mi pc 1\Desktop\Mateo\cnTEMPERATURA\cnTEMPERATURA\obj\Debug\cnTEMPERATURA.pdb
