@@ -1,0 +1,11 @@
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\bin\Debug\WEscuela.exe.config
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\bin\Debug\WEscuela.exe
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\bin\Debug\WEscuela.pdb
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.Form1.resources
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.Properties.Resources.resources
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.csproj.GenerateResource.cache
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.exe
+C:\Users\Mi pc 1\Desktop\Mateo\WEscuela\obj\Debug\WEscuela.pdb
